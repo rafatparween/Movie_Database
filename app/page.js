@@ -71,4 +71,4 @@ export default function My_func(){
       	
     </>
   );
-}
+};
